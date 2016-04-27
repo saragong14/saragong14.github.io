@@ -1,0 +1,64 @@
+body {
+	background-color: white;
+	font-family: Century Gothic, sans-serif;
+	margin: 20px;
+	}
+
+img {
+	float:right;
+	width: 100%;
+	height: auto;
+	max-width: 1020px;
+	min-width: 300px;
+}
+
+video {
+	float:right;
+	max-width: 100%;
+	height: auto;
+}
+
+h2 {
+	float: left;
+	margin: 10px;
+	font-family: Century Gothic, sans-serif;
+	font-weight: normal;
+	color: black;
+	font-size: 17pt;
+}
+
+.text {
+	float: left;
+	margin: 10px;
+	font-family: "Avant Garde", Helvetica, serif;
+	color: gray;
+	font-size: 11pt;
+}
+
+table {
+	table-layout: fixed;
+}
+
+td{
+    vertical-align: top;
+}
+
+a:link {
+	color: gray;
+	text-decoration: none;
+}
+
+a:visited {
+	color: gray;
+	text-decoration: none;
+}
+
+a:hover {
+	color: black;
+	text-decoration: underline;
+}
+
+a:active {
+	color: black;
+	text-decoration: underline;
+}

@@ -1,0 +1,40 @@
+body {
+	background-color: white;
+	font-family: Century Gothic, sans-serif;
+	margin: 20px;
+	}
+
+img {
+	max-width: 30%;
+	width: auto;
+	padding: 1.4%;
+	border-radius: 50%
+}
+
+img:hover {
+	opacity: 0.5;
+}
+
+a:link {
+	color: gray;
+	text-decoration: none;
+}
+
+a:visited {
+	color: gray;
+	text-decoration: none;
+}
+
+a:hover {
+	color: black;
+	text-decoration: underline;
+}
+
+a:active {
+	color: black;
+	text-decoration: underline;
+}
+
+h1 {
+	font-weight: normal;
+}
